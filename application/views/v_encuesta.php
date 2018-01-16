@@ -26,7 +26,7 @@
 	<link rel="stylesheet"    href="<?php echo RUTA_CSS?>index.css?v=<?php echo time();?>">
 </head>
 <body>
-    <div class="header-body"></div>
+    <div class="fondo-imagen"></div>
 	<section class="section">
 		<div class="mdl-container">
             <divi id="idEncuesta" class="mdl-card mdl-card-encuesta">

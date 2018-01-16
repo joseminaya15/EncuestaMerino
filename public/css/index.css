@@ -3,6 +3,18 @@ body{
 	margin: 0;
 	padding: 0;
 }
+.fondo-imagen{
+	background: url(../img/fondoencuesta.png) no-repeat center center;
+	background-size: cover !important;
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    z-index: 0;
+}
 .header-body{
 	position: absolute;
 	top: 0;
